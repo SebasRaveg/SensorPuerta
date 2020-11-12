@@ -24,7 +24,7 @@ GARAGE_DOORS = [
 #    },
 
     {
-        'pin': 15,
+        'pin': 7,
         'name': "Example Garage Door",
         'alerts': [
 #            {
